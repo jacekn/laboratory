@@ -23,5 +23,3 @@ docs.md is only relevant for developing the laboratory.
 
 # dummy change
 # dummy change
-# dummy change
-# dummy change
